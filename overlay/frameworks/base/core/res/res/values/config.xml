@@ -44,10 +44,13 @@
         <item>"/dev/ttyUSB4"</item>
     </string-array>
 
+    <!-- The VoiceMail default value is displayed to my own number if it is true -->
+    <bool name="config_telephony_use_own_number_for_voicemail">true</bool>
+
     <!-- MMS user agent string -->
-    <string name="config_mms_user_agent" translatable="false">motoxt912</string>
+    <string name="config_mms_user_agent" translatable="false">motoxt908</string>
 
     <!-- MMS user agent prolfile url -->
-    <string name="config_mms_user_agent_profile_url" translatable="false">http://uaprof.vtext.com/mot/xt912/xt912.xml</string>
+    <string name="config_mms_user_agent_profile_url" translatable="false">http://mms.nemont.mobi/UAProf/motoxt908.xml</string>
 </resources>
 

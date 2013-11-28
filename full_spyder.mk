@@ -39,6 +39,6 @@ $(call inherit-product, device/motorola/spyder/device.mk)
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := full_spyder
 PRODUCT_DEVICE := spyder
-PRODUCT_BRAND := verizon
+PRODUCT_BRAND := motorola
 PRODUCT_MANUFACTURER := Motorola
-PRODUCT_MODEL := DROID RAZR
+PRODUCT_MODEL := RAZR MAXX

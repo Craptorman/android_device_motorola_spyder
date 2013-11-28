@@ -8,13 +8,13 @@ $(call inherit-product, vendor/cm/config/common_full_phone.mk)
 # Setup device specific product configuration.
 #
 PRODUCT_NAME := cm_spyder
-PRODUCT_BRAND := verizon
+PRODUCT_BRAND := motorola
 PRODUCT_DEVICE := spyder
 PRODUCT_DEVICE_PREFIX := cdma
-PRODUCT_MODEL := XT912
+PRODUCT_MODEL := XT908
 PRODUCT_MANUFACTURER := Motorola
-PRODUCT_RELEASE_NAME := DROID RAZR
-PRODUCT_SFX := vzw
+PRODUCT_RELEASE_NAME := RAZR MAXX
+PRODUCT_SFX := acg_us
 
 UTC_DATE := $(shell date +%s)
 DATE := $(shell date +%Y%m%d)
